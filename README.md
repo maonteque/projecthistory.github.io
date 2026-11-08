@@ -3,7 +3,7 @@
 
 🌐 **Live Demo (GitHub Pages):** [https://vintape.github.io/projecthistory.github.io/](https://vintape.github.io/projecthistory.github.io/)
 
----
+ДОПУСТИМ ДА
 
 ## 🏛️ О проекте
 
